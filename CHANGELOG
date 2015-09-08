@@ -1,6 +1,7 @@
 2015-09-09 Petter Uvesten
 
 * Switched out marked.js for markdown-it.js as markdown engine
+* Added support for superscript and subscript via plugins
 
 2013-11-06 Thibaut Rousseau
 
