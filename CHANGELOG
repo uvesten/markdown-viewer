@@ -1,3 +1,7 @@
+2015-09-09 Petter Uvesten
+
+* Switched out marked.js for markdown-it.js as markdown engine
+
 2013-11-06 Thibaut Rousseau
 
 	* The title of the tab is now set to the first line of the document (SEE https://github.com/Thiht/markdown-viewer/issues/5)
